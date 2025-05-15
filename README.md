@@ -1,4 +1,5 @@
 # Browser Extensions Manager UI
+[view live site]] (https://browser-extensions-manage-ui.vercel.app/)
 
 ## Project Overview
 
